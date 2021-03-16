@@ -1,0 +1,5 @@
+Resolusi Belajar 2021
+-Konsisten HTMl 
+-Konsisten CSS
+-Konsisten Javascript
+-Konsisten Framework
